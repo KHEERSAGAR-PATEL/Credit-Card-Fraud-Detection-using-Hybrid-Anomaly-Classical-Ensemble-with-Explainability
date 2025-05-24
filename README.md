@@ -119,9 +119,10 @@ Download the notebook and run in Jupyter Lab / Google Colab:
 ## 🙋‍♂️ Author
 
 **Kheer Sagar Patel**
-Graduate Research Assistant – M.Tech (CSE)
-IIITDM Jabalpur | B.Tech – BIT Durg
-Specialization: CSE (AI & ML) 
+Graduate Research Assistant – M.Tech (CSE) @ IIITDM Jabalpur 
+Specialization: AI & ML 
+| B.Tech – BIT Durg
+
 
 
 ---
