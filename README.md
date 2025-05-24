@@ -95,9 +95,7 @@ This holistic system not only achieves high fraud detection performance but also
 * **SHAP (SHapley Additive exPlanations)**: Used to visualize which features contributed most to fraud predictions across the dataset.
 * **LIME (Local Interpretable Model-Agnostic Explanations)**: Used to understand individual decisions—useful for fraud analysts.
 
-<p align="center">
-  <img src="results/plots/shap_summary.png" alt="SHAP Summary Plot" width="600"/>
-</p>
+
 
 ---
 
